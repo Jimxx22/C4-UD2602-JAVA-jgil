@@ -4,38 +4,38 @@
 
 #### Cientifico
 
-GET -> /cientificos
+GET -> /api/cientificos
 
-POST -> /cientificos
+POST -> /api/cientificos
 
-GET -> /cientificos/{dni}
+GET -> /api/cientificos/{dni}
 
-PUT -> /cientificos/{dni}
+PUT -> /api/cientificos/{dni}
 
-DELETE -> /cientificos/{dni}
+DELETE -> /api/cientificos/{dni}
 
 
 #### Proyecto
 
-GET -> /proyectos
+GET -> /api/proyectos
 
-POST -> /proyectos
+POST -> /api/proyectos
 
-GET -> /proyectos/{id}
+GET -> /api/proyectos/{id}
 
-PUT -> /proyectos/{id}
+PUT -> /api/proyectos/{id}
 
-DELETE -> /proyectos/{id}
+DELETE -> /api/proyectos/{id}
 
 
 #### Asigando A
 
-GET -> /asignados
+GET -> /api/asignados
 
-POST -> /asignados
+POST -> /api/asignados
 
-GET -> /asignados/{id}
+GET -> /api/asignados/{id}
 
-PUT -> /asignados/{id}
+PUT -> /api/asignados/{id}
 
-DELETE -> /asignados/{id}
+DELETE -> /api/asignados/{id}
